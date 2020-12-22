@@ -80,8 +80,7 @@ sr.reveal('.title-connect', {delay: 500})
 
 sr.reveal('.portfolio section', {delay: 500})
 sr.reveal('.section-title', {delay: 500})
-sr.reveal('.grid', {delay: 500})
-sr.reveal('.portfolio section', {delay: 500})
+s
 
 
 
