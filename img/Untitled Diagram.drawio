@@ -1,9 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T14:57:07.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" version="21.6.3" etag="5YyG9tRiaYctTiVXp6Pw" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T15:35:08.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="aH7ltivrxy7FtNU178_R" version="21.6.3" type="github">
   <diagram name="Page-1" id="r3Fe4b_1P8iB-DJXWclb">
-    <mxGraphModel>
+    <mxGraphModel dx="1379" dy="916" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OXDY-0PkI7RPMnWj0PnV-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Axis Traceability Report&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#FFFFFF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="305" y="50" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OXDY-0PkI7RPMnWj0PnV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="OXDY-0PkI7RPMnWj0PnV-2" target="OXDY-0PkI7RPMnWj0PnV-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXDY-0PkI7RPMnWj0PnV-2" value="API" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/API_Management_Services.svg;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="170" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OXDY-0PkI7RPMnWj0PnV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#23445D;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="OXDY-0PkI7RPMnWj0PnV-4" target="OXDY-0PkI7RPMnWj0PnV-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OXDY-0PkI7RPMnWj0PnV-4" value="DATA BASE REPORT" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="108.11" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OXDY-0PkI7RPMnWj0PnV-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="260" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OXDY-0PkI7RPMnWj0PnV-10" value="Axis Traceability Report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="245.94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OXDY-0PkI7RPMnWj0PnV-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;API source&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OXDY-0PkI7RPMnWj0PnV-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Database&lt;br&gt;report&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="384.06" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OXDY-0PkI7RPMnWj0PnV-15" value="&lt;b&gt;Excel file&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="720" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
